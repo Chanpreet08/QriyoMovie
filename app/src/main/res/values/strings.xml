@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">Searcher</string>
     <string name="action_settings">Settings</string>
+    <string-array name="genre_array">
+        <item>Adventure </item>
+        <item>Animation </item>
+        <item>Biography</item>
+        <item>Comedy </item>
+        <item>Crime </item>
+        <item>Documentary</item>
+        <item>Family</item>
+        <item>Fantasy</item>
+        <item>History</item>
+        <item>Horror </item>
+        <item>Musical</item>
+        <item>Mystery </item>
+        <item>Sci-Fi</item>
+        <item>Romance</item>
+        <item>Sport</item>
+        <item>Thriller </item>
+        <item>War</item>
+    </string-array>
 </resources>
