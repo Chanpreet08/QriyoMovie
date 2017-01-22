@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7e3773cc6492aa514408ab89d474fb684045c8a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -12,39 +21,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_2a7ef318e4440949951e3491bbfbfe50edaa24ec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_3f84cfc0b8a65fc45c3de837a2842f82b2c02507.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_02822e6e23c7c0d68190766ebaa8a20092251af9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_102148049aa42e67a6ecb0d3d1e17c533f5bdb58.jar" />
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_91f4e298c0b27519e95f9289cdfc7a211bb227e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/gson-2.6.2_deb3af31289cf8883d2704aacad84d93f21aab0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e44a8adfa79eed4a4efeca0dbd4e79e4a1188304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_f32f5476187905d1ebfe10823ac8f5b78a8e2fb2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +66,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/chanpreet/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f5ec94b8a1128cf26e9064a536adf497e0052af3.jar" />
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_b5cfa380766f0e88c7ac2e005006f328f977f8af.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,39 +102,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b72445022dd56a965d0711400037ea88a78c4a87.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_d9cd83fea7a4b68da927657295c680121f36e86d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chanpreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_387a1d580918046caec3f2294fe0fa17b0023960.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2c69b337fe9cf00edb36122c9ad695677ea7350f.jar" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7da6a66c6737a1fb72603ae9dd82534bc4647181.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,6 +120,222 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3717db628f9407c48341eaedd602870b468d35cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_f2331829e65a4b55a983e23d0296592d60304def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ebcef29ca03614819a0139e11bb2e2940b318562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_2a7ef318e4440949951e3491bbfbfe50edaa24ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_3f84cfc0b8a65fc45c3de837a2842f82b2c02507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3869d94b2ee3216cddf4200de6a5d838d7a38ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_02822e6e23c7c0d68190766ebaa8a20092251af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_102148049aa42e67a6ecb0d3d1e17c533f5bdb58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f5ec94b8a1128cf26e9064a536adf497e0052af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/okio-1.6.0_9533cb644900fe38eeea0ebd87dbb1ce11fefc96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_9138b4ecfbbafc8e01f6b06da8b1c69b0db49785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_5e72e73320d54b7b293f4e2aced6070243d72dcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0bb57328cbdd50dd647e17e9505feabaeb83c418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_218af4b623d88fc41fc3f92ff570f756da16a72e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b72445022dd56a965d0711400037ea88a78c4a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_1486eb1a886f5e6bedf1f3b4e1d92c922e482eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_387a1d580918046caec3f2294fe0fa17b0023960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_d9cd83fea7a4b68da927657295c680121f36e86d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_5990bca3a6d8fc13bca82bebcbf19bea4e3230a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2c69b337fe9cf00edb36122c9ad695677ea7350f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_def1a1e4cc5a58723a6faf7055c61c5277150a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f9990e4de4ebb47ee5095290df4bfbb4d251818e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_b506fe15b02d4d4f2ad668dcd55197547305e98b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_6c303062e54869fd8845333b442ef1116dea6d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -147,12 +345,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/chanpreet/project/Searcher2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/chanpreet/project/Searcher2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3717db628f9407c48341eaedd602870b468d35cc.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/chanpreet/AndroidStudioProjects/QriyoMovie/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b942ee8fd10cb7171a15bb9696ed52263c459776.jar" />
     </item>
 
 </items>

@@ -8,16 +8,15 @@ import com.google.gson.annotations.SerializedName;
 
 public class Search {
 
-    @SerializedName("title")
-    private String searchTitle="";
+    @SerializedName("key")
+    private String key="";
 
 
-    public String getSearchTitle() {
-        return searchTitle;
+    public String getKey() {
+        return key;
     }
 
-    public void setSearchTitle(String searchTitle) {
-        this.searchTitle = searchTitle;
+    public void setKey(String key) {
+        this.key = key;
     }
-
 }
