@@ -4,6 +4,7 @@ import android.app.ProgressDialog;
 import android.app.SearchManager;
 import android.content.Context;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v4.view.MenuItemCompat;
@@ -20,6 +21,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+import chanpreet.searcher.Adapter.MovieAdapter;
 import chanpreet.searcher.R;
 import chanpreet.searcher.Response.Resp;
 import chanpreet.searcher.Response.SearchResponse;
@@ -48,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
         pd = Tools.getProgressDialog(MainActivity.this);
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -73,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
                             pd.dismiss();
                             list = response.body().getList();
                             Toast.makeText(MainActivity.this,"Successful",Toast.LENGTH_SHORT).show();
+                            setRecyclerView();
                         }
                     }
 
@@ -91,6 +95,20 @@ public class MainActivity extends AppCompatActivity {
                 return false;
             }
         };
+    }
+
+    private void setRecyclerView() {
+        recyclerView = (RecyclerView) findViewById(R.id.movies_recycler);
+        adapter = new MovieAdapter(MainActivity.this,list);
+        linearLayoutManager = new LinearLayoutManager(MainActivity.this);
+        recyclerView.setAdapter(adapter);
+        recyclerView.setLayoutManager(linearLayoutManager);
+    }
+
+    @Override
+    protected void onPostCreate(@Nullable Bundle savedInstanceState) {
+        super.onPostCreate(savedInstanceState);
+
     }
 
     @Override
